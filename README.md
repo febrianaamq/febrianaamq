@@ -6,7 +6,7 @@
 - **NIM**: 240605110059
 - **Program Studi**: Teknik Informatika
 - **Fakultas**: Sains dan Teknologi
-- **Kelas Praktikum**: -
+
 
 ## 📚 Daftar Praktikum
 
